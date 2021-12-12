@@ -9,4 +9,4 @@
     - AWS Certified Solutions Architect – Associate
 - UI/UX 
 
-GitにPushする癖がなくなってしまって草が全然生えなくなってしまった
+GitにPushする癖がなくなって草が全然生えなくなってしまった
