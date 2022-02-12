@@ -4,9 +4,11 @@
 ![Learning](https://img.shields.io/badge/Learning-TypeScript_Dart_React-blue?style=for-the-badge)
 ![Love](https://img.shields.io/badge/Love-Discord_RPC-blue?style=for-the-badge)
 
-### Interest
+### Interest・skill
 - AWS
     - AWS Certified Solutions Architect – Associate
 - UI/UX 
+- Automation
+
 
 GitにPushする癖がなくなって草が全然生えなくなってしまった
