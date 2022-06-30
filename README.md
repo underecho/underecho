@@ -10,5 +10,3 @@
 - UI/UX 
 - Automation
 
-
-GitにPushする癖がなくなって草が全然生えなくなってしまった
